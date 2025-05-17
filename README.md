@@ -46,6 +46,9 @@ python3 -m venv venv
 source venv/bin/activate    # Windows: venv\Scripts\activate
 ```
 
+## Arquitetura
+![undefined](https://github.com/user-attachments/assets/984f525d-f422-4462-8494-e07a7d19d6d1)
+
 ## Uso
 
 ### 1. Treinamento (opcional)
