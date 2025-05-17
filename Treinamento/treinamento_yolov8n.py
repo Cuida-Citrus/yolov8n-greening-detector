@@ -2,7 +2,7 @@ from ultralytics import YOLO
 import os
 
 
-arquivo_config = 'yolov8n/configs_modelo.yaml'
+arquivo_config = 'configs/configs_modelo.yaml'
 
 model = YOLO('yolov8s.yaml')
 
