@@ -1,0 +1,6 @@
+path: "/content/greening-detector-model/dataset/"
+train: "train/"
+val: "valid/"
+
+nc: 2
+names: ["Healthy", "Greening"]
