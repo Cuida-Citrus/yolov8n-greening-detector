@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+azure-storage-blob
+azure-cosmos
+huggingface-hub
+ultralytics
+opencv-python-headless
+pillow
+pydantic-settings
